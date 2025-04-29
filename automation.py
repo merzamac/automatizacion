@@ -22,6 +22,6 @@ def automated_sending(mensaje, phone):
         browser.close()
 
 if __name__ == "__main__":
-    mensaje = "Lo he conseguido"
-    phone = '00000000000'
+    mensaje = "Lo he conseguido tio"
+    phone = '000000000000'
     automated_sending(mensaje, phone)
