@@ -7,6 +7,5 @@ src/automatizacion/__pycache__
 tests/__pycache__/
 .env
 .pdm-python
-pdm.lock
 pyproject.toml
 src/automatizacion.egg-info/
